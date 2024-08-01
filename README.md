@@ -1,3 +1,4 @@
+ola amigoss
 - 👋 oii amigas(os) meu nome é Isabela
 - 👀 estou interessada em compartilhar projetos incriveis com o resto do mundo 
 - 🌱 estou aprendendo a trabalhar com o projeto github
